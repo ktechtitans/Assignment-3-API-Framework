@@ -6,7 +6,7 @@
  */
 
 // Import the Recipe model correctly
-const Recipe = require('../Models/Recipe');
+const Recipe = require('../Models/recipe');
 const { ObjectId } = require('mongodb');
 
 // Get all recipes
