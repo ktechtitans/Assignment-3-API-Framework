@@ -1,0 +1,20 @@
+{
+  "name": "assignment-3",
+  "version": "1.0.0",
+  "description": "This is my Assignment-3 Web Application Authentication using JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Kanchan Kaur",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.1",
+    "nodemon": "^3.1.7"
+  }
+}
